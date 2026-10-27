@@ -1,8 +1,8 @@
 {
-  "name": "emin-shopper-plugins",
-  "description": "Vendored, reviewed Claude Code plugins for emin-shopper",
+  "name": "emin63-plugins",
+  "description": "Vendored, reviewed Claude Code plugins for emin63",
   "owner": {
-    "name": "emin-shopper"
+    "name": "emin63"
   },
   "plugins": [
     {
