@@ -1,0 +1,19 @@
+{
+  "name": "pyright-lsp",
+  "version": "1.0.0",
+  "description": "Pyright language server for Python (vendored from Anthropic's pyright-lsp)",
+  "author": {
+    "name": "emin-shopper"
+  },
+  "license": "Apache-2.0",
+  "lspServers": {
+    "pyright": {
+      "command": "/usr/local/bin/pyright-langserver",
+      "args": ["--stdio"],
+      "extensionToLanguage": {
+        ".py": "python",
+        ".pyi": "python"
+      }
+    }
+  }
+}
