@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Pyright language server for Python (vendored from Anthropic's pyright-lsp)",
   "author": {
-    "name": "emin-shopper"
+    "name": "emin63"
   },
   "license": "Apache-2.0",
   "lspServers": {
